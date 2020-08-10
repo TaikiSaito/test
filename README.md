@@ -1,3 +1,3 @@
-#初めてのGit
+# 初めてのGittttttt
 なんと
 Git初や
